@@ -2,6 +2,8 @@
 
 ### Description
 
+This is a elevator simulator made using the C++ QT framework. 
+
 Video demo of this elevator simulator is avalible to watch [HERE](https://www.youtube.com/watch?v=kbqeA26Ul-Q)
 
 ### Simulator View 
